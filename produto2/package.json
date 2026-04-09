@@ -1,0 +1,22 @@
+{
+  "name": "produto2",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "env": "^0.0.2",
+    "express": "^5.2.1",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "mysql2": "^3.20.0",
+    "nodemon": "^3.1.14"
+  }
+}
